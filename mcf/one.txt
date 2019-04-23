@@ -1,1 +1,1 @@
-this is validating merge conflict 
+this is linux validating
