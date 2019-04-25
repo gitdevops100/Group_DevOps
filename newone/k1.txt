@@ -1,1 +1,2 @@
-this is automerge
+this is automerg
+trying merge-conflicte
